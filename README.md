@@ -1,9 +1,10 @@
 # Adalab-Promo52-Modulo-4-Proyecto2-Grupo4
-🎶 Eurovisión en Datos – Proyecto Final (Módulo 4)
+🎶 Eurovisión en Datos: Proyecto Final (Módulo 4)
 Este repositorio contiene el proyecto final del Módulo 4 del Bootcamp de Data Analytics de Adalab, realizado por el Grupo 4 de la Promo 52.
 Nuestro objetivo: Analizar Eurovisión desde una perspectiva de datos, combinando cultura, música y geopolítica en un dashboard interactivo.
 
 🎯 Objetivo del proyecto
+
 El proyecto busca transformar los datos de Eurovisión (2016–2025) en una experiencia visual e interpretativa que permita explorar tendencias, patrones y relaciones entre la música y el contexto político, social y cultural de Europa.
 A través de Power BI, creamos un dashboard dinámico que responde a preguntas como:
 
@@ -12,6 +13,7 @@ A través de Power BI, creamos un dashboard dinámico que responde a preguntas c
 ¿Quién triunfa más: los solistas o los grupos?
 
 📊 Contenido del dashboard
+
 El dashboard incluye visualizaciones sobre:
 
 Países participantes cada año.
@@ -60,6 +62,7 @@ Marina Sabaté
 Génesis Narea
 
 📌 Conclusiones destacadas
+
 Sesgo favorable hacia ciertos grupos regionales.
 
 Escasa representación artística de grupos femeninos.
