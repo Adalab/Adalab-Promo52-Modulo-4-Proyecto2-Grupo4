@@ -49,7 +49,8 @@ Python / Excel: tratamiento, limpieza y transformación de los datos.
 
 GitHub: control de versiones y colaboración en equipo.
 
-👥 Equipo de trabajo
+👥 Equipo de trabajo 
+
 Almudena Enguita
 
 Inés Martínez
