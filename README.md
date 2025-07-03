@@ -1,5 +1,7 @@
 # Adalab-Promo52-Modulo-4-Proyecto2-Grupo4
+
 🎶 Eurovisión en Datos: Proyecto Final (Módulo 4)
+
 Este repositorio contiene el proyecto final del Módulo 4 del Bootcamp de Data Analytics de Adalab, realizado por el Grupo 4 de la Promo 52.
 Nuestro objetivo: Analizar Eurovisión desde una perspectiva de datos, combinando cultura, música y geopolítica en un dashboard interactivo.
 
